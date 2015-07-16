@@ -1,0 +1,27 @@
+{
+  "name": "test-data",
+  "version": "0.1.0",
+  "author": "Doni",
+  "license": "MIT",
+  "description": "Test data generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donilan/test-data.git"
+  },
+  "keywords": [
+    "test",
+    "generator"
+  ],
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  },
+  "bugs": {
+    "url": "https://github.com/donilan/test-data/issues"
+  },
+  "homepage": "https://github.com/donilan/test-data#readme"
+}
